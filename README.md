@@ -1,6 +1,5 @@
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I have decided to create a Google Cloud Database. This database will allow me to easily share it with colleagues. I am interested in doing this so I will have the knowledge in a future career setting. 
 
 {Provide a description of your software}
 
@@ -12,9 +11,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Tools: Google Cloud, MySQL
 
-{Describe the programming language that you used}
+Language: SQL
 
 # Useful Websites
 
